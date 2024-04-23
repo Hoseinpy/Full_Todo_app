@@ -1,0 +1,4 @@
+- [ ] create api
+- [ ] add swagger
+- [ ] add cors
+- [ ] add boostrap
