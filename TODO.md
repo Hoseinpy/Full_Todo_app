@@ -1,4 +1,5 @@
-- [ ] create api
-- [ ] add swagger
-- [ ] add cors
-- [ ] add boostrap
+- [x] create api
+- [x] add swagger
+- [x] add cors
+- [x] add boostrap
+- [ ] add is_done option for api
